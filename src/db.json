@@ -1,0 +1,53 @@
+{
+  "products": [
+    {
+      "id": "2",
+      "name": "Unbranded Cotton",
+      "image": "http://lorempixel.com/640/480/city",
+      "price": "922.00",
+      "desc": "SAn pham tot"
+    },
+    {
+      "id": "3",
+      "name": "Sleek Frozen Chips",
+      "image": "http://lorempixel.com/640/480/sports",
+      "price": "697.00",
+      "desc": "SAn pham tot"
+    },
+    {
+      "id": "4",
+      "name": "Ergonomic Steel Shirt",
+      "image": "http://lorempixel.com/640/480/food",
+      "price": "498.00",
+      "desc": "SAn pham tot"
+    },
+    {
+      "id": "5",
+      "name": "Handcrafted Concrete Hat",
+      "image": "http://lorempixel.com/640/480/fashion",
+      "price": "580.00",
+      "desc": "SAn pham tot"
+    },
+    {
+      "id": "6",
+      "name": "Incredible Cotton Tuna",
+      "image": "http://lorempixel.com/640/480/food",
+      "price": "57.00",
+      "desc": "SAn pham tot"
+    },
+    {
+      "id": "7",
+      "name": "Generic Plastic Tuna",
+      "image": "http://lorempixel.com/640/480/animals",
+      "price": "836.00",
+      "desc": "SAn pham tot"
+    },
+    {
+      "id": "aj8hrkqsv",
+      "name": "Anh aaaaaaaaaaaaa",
+      "image": "https://firebasestorage.googleapis.com/v0/b/uploadanh-5f8e2.appspot.com/o/images%2Fth.jpg?alt=media&token=d5389a04-04d0-4a4b-b49c-f04ca14f3dc9",
+      "price": "40000",
+      "desc": "thhhhhhhhh"
+    }
+  ]
+}
